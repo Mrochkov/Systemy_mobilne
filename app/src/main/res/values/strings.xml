@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zadanie1Android</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_kosmos">Siły pływowe sprawiają, że każdego roku Księżyc oddala się od Ziemi o 3,8 cm i zmierza w kierunku Marsa.</string>
+    <string name="q_cialo">Większość komórek ciała człowieka wielokrotnie ginie i tworzy się na nowo. Człowiek zmienia błonę wyściełającą jego żołądek średnio co 2 dni. Szkielet zmieniamy co około 10 lat. Co minutę powstaje i ginie 150 milionów czerwonych krwinek.</string>
+    <string name="q_owoc">Najwięcej witaminy C znajduje się w czarnej porzeczce.</string>
+    <string name="q_wieloryb">Serce wieloryba bije tylko 9 razy na minutę.</string>
+    <string name="q_kangur">W Australii kangurów jest 2 razy więcej niż ludzi.</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="koniec">Wynik testu: </string>
+</resources>
