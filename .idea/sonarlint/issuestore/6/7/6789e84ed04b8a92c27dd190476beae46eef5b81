@@ -1,19 +1,8 @@
 
-w
-java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ8Ùƒš™´1
-{
-java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8äƒš™´1
-
-java:S1450"_Remove the "questionTextView" field and declare it as a local variable in the relevant methods.(êÿ±ıÿÿÿÿ8óƒš™´1
-{
-java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ8‚„š™´1
-P
-java:S1068".Remove this unused "trueButton" private field.(Ãş×Äüÿÿÿÿ8½„š™´1
-L
-java:S1068"/Remove this unused "falseButton" private field.(Ôœ8½„š™´1
-P
-java:S1068".Remove this unused "nextButton" private field.(º€ü‰ùÿÿÿÿ8½„š™´1
-V
-java:S1068"4Remove this unused "questionTextView" private field.(êÿ±ıÿÿÿÿ8¾„š™´1
+E
+java:S1604?"(Make this anonymous inner class a lambda(Ÿá¤ƒ8ÇÒì»´1
 J
-java:S1068"-Remove this unused "questions" private field.(ØÃÌÔ8¾„š™´1
+java:S1604K"(Make this anonymous inner class a lambda(¨Èšêıÿÿÿÿ8ÇÒì»´1
+J
+java:S1604X"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8ÇÒì»´1
+q	java:S116"PRename this field "Wynik" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤—°Áùÿÿÿÿ8—Óì»´1

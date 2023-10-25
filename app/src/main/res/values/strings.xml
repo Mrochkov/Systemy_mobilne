@@ -11,4 +11,9 @@
     <string name="correct_answer">Poprawna odpowiedź</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź</string>
     <string name="koniec">Wynik testu: </string>
+    <string name="answerTextView" />
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowiedz była już wyświetlona</string>
+    <string name="odpowiedz_button">Pokaż odpowiedź</string>
+    <string name="button_odpowiedz" />
 </resources>
