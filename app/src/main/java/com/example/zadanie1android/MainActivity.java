@@ -180,6 +180,7 @@ public class MainActivity extends AppCompatActivity {
                     trueButton.setVisibility(View.GONE);
                     falseButton.setVisibility(View.GONE);
                     nextButton.setVisibility(View.GONE);
+                    promptButton.setVisibility(View.GONE);
                     questionTextView.setText("Twój wynik to: " + Integer.toString(Wynik) + "/5");
 
                 } else {
